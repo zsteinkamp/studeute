@@ -1,0 +1,12 @@
+---
+layout: post
+title: Ute color
+date: '2008-09-28 15:02:36'
+---
+These give you a better idea of the actual color...
+
+<a href="/uploads/2008/09/paint-001.jpg"><img class="alignnone size-medium wp-image-422" src="/uploads/2008/09/paint-001-600x450.jpg" alt="" width="600" height="450" /></a>
+
+<a href="/uploads/2008/09/paint-010.jpg"><img class="alignnone size-medium wp-image-424" src="/uploads/2008/09/paint-010-600x450.jpg" alt="" width="600" height="450" /></a>
+
+...but even they aren't quite right...a little too blue relative to the actual.
