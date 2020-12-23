@@ -17,7 +17,7 @@ title: Stude Ute
 email: dick@steinkamp.us
 description: >- # this means to ignore newlines until "baseurl:"
   Dick Steinkamp's '53 Studebaker Commander Ute
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/studeute" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 destination: public/
 
