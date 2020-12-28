@@ -3,17 +3,17 @@ layout: post
 title: 2009 GNRS...The Ute is in!
 date: '2008-06-01 20:27:36'
 ---
-<span style="font-family: Verdana,Arial,Helvetica; color: midnightblue; font-size: x-small;"><span id="msg" class="spnMessageText"><strong><span style="font-size: medium;">I'm stoked </span></strong><img src="http://forum.studebakerdriversclub.com/images/icon_smile_tongue.gif" border="0" alt="" width="15" height="15" align="middle" /> <img src="http://forum.studebakerdriversclub.com/images/icon_smile_cool.gif" border="0" alt="" width="15" height="15" align="middle" /> <img src="http://forum.studebakerdriversclub.com/images/icon_smile_big.gif" border="0" alt="" width="15" height="15" align="middle" />
+<span style="font-family: Verdana,Arial,Helvetica; color: midnightblue; font-size: x-small;"><span id="msg" class="spnMessageText"><strong><span style="font-size: medium;">I'm stoked </span></strong></span></span>
 
 Just received this from the Producer of the Grand National Roadster Show...
 
-<em>"Hi Dick,
+<em>"Hi Dick,</em>
 
 I have a neat surprise for you.
 
 I am working on the 60th Anniversary currently, and we are going to attempt to recreate the building that your car was in back in 59!
 
-I would love to see you and the car there. The plan is to have 10 50�s cars from the show in the front of the building and then timeline back to current in the back of the building.
+I would love to see you and the car there. The plan is to have 10 50's cars from the show in the front of the building and then timeline back to current in the back of the building.
 
 We are going to recreate the overhead signs as well as try to locate some old standard oil barrels to place around the vehicles.
 
@@ -23,9 +23,9 @@ All of the cars in this room will be historic vehicles and I would love to see y
 
 Please send me you mailing address so I can get you more details.
 
-John Buck "</em>
+John Buck "
 
-<span style="font-size: medium;"><strong>(did I say I was stoked? !!)</strong></span> <img src="http://forum.studebakerdriversclub.com/images/icon_smile_cool.gif" border="0" alt="" width="15" height="15" align="middle" /><img src="http://forum.studebakerdriversclub.com/images/icon_smile_shock.gif" border="0" alt="" width="15" height="15" align="middle" /><img src="http://forum.studebakerdriversclub.com/images/icon_smile_tongue.gif" border="0" alt="" width="15" height="15" align="middle" /><img src="http://forum.studebakerdriversclub.com/images/icon_smile_big.gif" border="0" alt="" width="15" height="15" align="middle" />
+<span style="font-size: medium;"><strong>(did I say I was stoked? !!)</strong></span>
 
 Jon Falcon has agreed to do the body and paint for me. He's my young buddy and WyoTech grad that has about 4 years in a restoration shop and did the '63 Hawk for me last year. He's now at Western Washington University here in Bellingham in their Industrial Design program, but has the summer off.
 
@@ -33,6 +33,6 @@ It will have a '55 President 259 with 2 backdraft Stromberg 2 barrels and some O
 
 I need a vintage go Kart for the bed as it was exhibited at the '59 ORS.
 
-It was Pink at the '59 ORS, but I can't do pink.  Need some color suggestions.
+It was Pink at the '59 ORS, but I can't do pink. Need some color suggestions.
 
-<span style="font-size: medium;"><strong>I'm stoked! </strong></span></span></span>
+<span style="font-size: medium;"><strong>I'm stoked! </strong></span>

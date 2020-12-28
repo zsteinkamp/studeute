@@ -3,7 +3,7 @@ layout: post
 title: Making contact with Lee
 date: '2008-06-26 20:35:24'
 ---
-I'm in California doing a little beach sitting and other unproductive activities <img src="http://forum.studebakerdriversclub.com/images/icon_smile_wink.gif" border="0" alt="" width="15" height="15" align="middle" />.
+I'm in California doing a little beach sitting and other unproductive activities.
 
 I checked my voice mail at my home phone yesterday and there was a message from Chris Talbot. Chris explained that his father, Lee Talbot, and his partner Sam Chakries are the ones that originally built the Ute for the '59 Oakland Roadster Show.
 
@@ -17,6 +17,6 @@ Lee is super excited that the car will be in the Grand National Roadster Show fo
 
 He told me that Sam Chakries still lives in Livermore and would also be excited to talk with me.
 
-Neat deal <img src="http://forum.studebakerdriversclub.com/images/icon_smile_cool.gif" border="0" alt="" width="15" height="15" align="middle" />
+Neat deal
 
-Also this trip I stopped in to see Howdy Ledbetter. Howdy did the interior on my black Starliner. Howdy is a Hot Rod Hall of Fame member and has done the interiors on many high profile hot rods and customs. He did the interior on the restoration of Ala Kart, for example. Howdy is a talented, friendly, down to earth guy that just loves cars. He's agreed to do the Ute. It will be beautiful! <img src="http://forum.studebakerdriversclub.com/images/icon_smile_tongue.gif" border="0" alt="" width="15" height="15" align="middle" />
+Also this trip I stopped in to see Howdy Ledbetter. Howdy did the interior on my black Starliner. Howdy is a Hot Rod Hall of Fame member and has done the interiors on many high profile hot rods and customs. He did the interior on the restoration of Ala Kart, for example. Howdy is a talented, friendly, down to earth guy that just loves cars. He's agreed to do the Ute. It will be beautiful! 

@@ -9,28 +9,28 @@ What a great guy! Friendly, sincere, interesting, lively. He's been a "gear head
 
 Here is Lee and his wife Judy at lunch today...
 
-<img style="border: 0pt none;" src="http://i149.photobucket.com/albums/s66/ddstnkmp/Stude-a-mino%20old%20pics/pics038.jpg" border="0" alt="" width="573" height="430" />
+<a href="/uploads/2008/07/pics-038.jpg"><img class="alignnone size-medium wp-image-453" src="/uploads/2008/07/pics-038-600x450.jpg" alt="" width="600" height="450" /></a>
 
 Here's another Stude he customized with Corvette tail lights...
 
-<img style="border: 0pt none;" src="http://i149.photobucket.com/albums/s66/ddstnkmp/Stude-a-mino%20old%20pics/oldpics1.jpg" border="0" alt="" width="573" height="385" />
+<a href="/uploads/2008/07/oldpics1-copy.jpg"><img class="alignnone size-medium wp-image-458" src="/uploads/2008/07/oldpics1-copy-600x403.jpg" alt="" width="600" height="403" /></a>
 
-Coincidently, he painted it the color that I am leaning towards for the Ute at this point...1954 Studebaker Azore Green. Lee gave me permission to paint the Ute that color <img src="http://forum.studebakerdriversclub.com/images/icon_smile_big.gif" border="0" alt="" width="15" height="15" align="middle" />
+Coincidently, he painted it the color that I am leaning towards for the Ute at this point...1954 Studebaker Azore Green. Lee gave me permission to paint the Ute that color
 
 He is really stoked that the car will be at the GNRS in January of 2009 for it's 50th anniversary appearance, and plans to attend.
 
-Lee gave me copies of 15 pictures of the car under construction and completed.  Here they are for any one that is interested...
+Lee gave me copies of 15 pictures of the car under construction and completed. Here they are for any one that is interested...
 
-<a href="http://s149.photobucket.com/albums/s66/ddstnkmp/Stude-a-mino%20old%20pics/" target="_blank">http://s149.photobucket.com/albums/s66/ddstnkmp/Stude-a-mino%20old%20pics/</a>
+<a href="http://s149.photobucket.com/albums/s66/ddstnkmp/Stude-a-mino%20old%20pics/" target="_blank" rel="noopener">http://s149.photobucket.com/albums/s66/ddstnkmp/Stude-a-mino%20old%20pics/</a>
 
 Here's one shot of the finished car in 1958...
 
-<img style="border: 0pt none;" src="http://i149.photobucket.com/albums/s66/ddstnkmp/Stude-a-mino%20old%20pics/oldpics6.jpg" border="0" alt="" width="573" height="554" />
+<a href="/uploads/2008/07/oldpics6.jpg"><img class="alignnone size-medium wp-image-459" src="/uploads/2008/07/oldpics6-600x580.jpg" alt="" width="600" height="580" /></a>
 
-Here's one of it under construction.  That's Lee doing the welding and his partner Sam helping...
+Here's one of it under construction. That's Lee doing the welding and his partner Sam helping...
 
-<img src="http://i149.photobucket.com/albums/s66/ddstnkmp/Stude-a-mino%20old%20pics/oldpics14.jpg" border="0" alt="" />
+<a href="/uploads/2008/07/oldpics14-copy.jpg"><img class="alignnone size-medium wp-image-460" src="/uploads/2008/07/oldpics14-copy-600x421.jpg" alt="" width="600" height="421" /></a>
 
-He also told me about 100 stories about building the car.  Just great stuff I never expected to learn when I bought the car.
+He also told me about 100 stories about building the car. Just great stuff I never expected to learn when I bought the car.
 
-Quite a day <img src="http://forum.studebakerdriversclub.com/images/icon_smile_cool.gif" border="0" alt="" width="15" height="15" align="middle" />
+Quite a day

@@ -16,7 +16,7 @@ csv_arr.each do |row|
 end
 
 # now true up revisions
-post_arr.sort_by{ |p| [p['ID']]}.each do |post|
+post_arr.sort_by{ |p| [p['ID'].to_i]}.each do |post|
   if post['post_type'] == 'attachment' || post['post_status'] == 'draft'
     post_hash.delete(post['ID'])
   end
