@@ -2,11 +2,12 @@
 layout: post
 title: It runs and drives!
 date: '2009-02-21 16:30:42'
+thumb_url: /uploads/2009/02/pics-007-copy-1-600x450.jpg
 ---
 <span style="font-size: x-small; font-family: Verdana,Arial,Helvetica; color: midnightblue;"><span id="msg" class="spnMessageText">
 </span></span>The Ute went to the GNRS not running. I just flat ran out of time prior to the show.
 
-A couple of weeks ago, I started into wiring it, getting it running, and working out some bugs. The biggest issue was that dummy me had put the clutch disc in backwards <img src="http://forum.studebakerdriversclub.com/images/icon_smile_sad.gif" alt="" width="15" height="15" align="middle" border="0" />. A real rookie mistake.
+A couple of weeks ago, I started into wiring it, getting it running, and working out some bugs. The biggest issue was that dummy me had put the clutch disc in backwards. A real rookie mistake.
 
 It is now running good enough and driving good enough that Brian Curtis and I took it out for a photo shoot in several different locations.
 

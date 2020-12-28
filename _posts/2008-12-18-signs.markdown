@@ -2,6 +2,7 @@
 layout: post
 title: Signs
 date: '2008-12-18 21:25:53'
+thumb_url: '/uploads/2008/12/mounts-022.jpg'
 ---
 Larry came up with some killer signs to display with the car at the GNRS...
 

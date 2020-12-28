@@ -2,6 +2,7 @@
 layout: post
 title: Clutch linkage
 date: '2008-10-26 20:57:16'
+thumb_url: '/uploads/2008/10/clutch-002-600x450.jpg'
 ---
 Probably one of the many "gotchas" I'll encounter during the assembly process of the Ute.
 

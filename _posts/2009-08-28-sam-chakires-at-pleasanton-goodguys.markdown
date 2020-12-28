@@ -2,6 +2,7 @@
 layout: post
 title: Sam Chakires at Pleasanton GoodGuys
 date: '2009-08-28 08:18:41'
+thumb_url: '/uploads/2009/08/gg-010-600x450.jpg'
 ---
 I had the honor of meeting Sam Chakires at the GoodGuys West Coast Nationals in Pleasanton on Friday, August 21st.  Sam was Lee Talbot's partner on the original build of the Kart Hauler in 1958.
 

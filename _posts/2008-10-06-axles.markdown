@@ -2,6 +2,7 @@
 layout: post
 title: Axles
 date: '2008-10-06 20:53:27'
+thumb_url: '/uploads/2008/10/undercarriage-010-600x450.jpg'
 ---
 I installed new inner seals in the rear end of the Ute and slipped the axles back in. That's when I noticed that BOTH axles were slightly twisted where the key ends up in the keyway...
 

@@ -2,6 +2,7 @@
 layout: post
 title: Engine detail...color sanding
 date: '2008-10-19 20:54:42'
+thumb_url: '/uploads/2008/10/colorsand-018-600x450.jpg'
 ---
 Pekka got me motivated to get the '55 President V8 detailed for installation. Gord Richmond built this motor.
 

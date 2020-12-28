@@ -2,6 +2,7 @@
 layout: post
 title: Meeting with Lee
 date: '2008-07-18 20:40:01'
+thumb_url: '/uploads/2008/07/pics-038-600x450.jpg'
 ---
 I think I mentioned that I was able to hook up with Lee Talbot...the original builder of the Ute...due to the article about the car in Hot Rod Deluxe. Lee is 80 years old and now lives in Astoria, OR. He was up visiting his brother in Olympia, WA today, so I made the 2 1/2 hour drive to Olympia to meet Lee personally.
 

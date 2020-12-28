@@ -2,6 +2,7 @@
 layout: post
 title: The Ute is Gray
 date: '2008-08-18 20:48:21'
+thumb_url: '/uploads/2008/08/primer-007-600x450.jpg'
 ---
 ...well, actually, K36 primer. I'm still up in the air on the final color. Sticking in my mind this week is cream, with blood red and cream interior, red wheels, red engine, red go kart. I'll change my mind a couple more times before I have to make a final selection I'm sure.
 

@@ -2,6 +2,7 @@
 layout: post
 title: Ute goes to Howdy's Place
 date: '2008-12-05 18:39:54'
+thumb_url: 'http://farm4.static.flickr.com/3276/3086091194_8c73380698.jpg?v%200'
 ---
 Delivered the Ute yesterday to Howdy's Place in Fremont, CA for the interior.  Here's Howdy Ledbetter...
 

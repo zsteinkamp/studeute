@@ -2,6 +2,7 @@
 layout: post
 title: GNRS
 date: '2009-01-27 20:08:01'
+thumb_url: '/uploads/2009/01/IMG_2229-600x450.jpg'
 ---
 I've been away from a computer for 6 days. The good news is, the "shakes" stopped after about the third day.
 

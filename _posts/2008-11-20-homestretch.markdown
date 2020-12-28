@@ -2,6 +2,7 @@
 layout: post
 title: Homestretch
 date: '2008-11-20 15:06:48'
+thumb_url: '/uploads/2008/11/rear-end-002-600x450.jpg'
 ---
 Coming down the homestretch on the <span class="nfakPe">Ute</span>.  The rear part is done.  A little color sanding and buffing to finish on the front, and the front bumper isn't fitted yet.  Other than that, wiring, and assembling the windows into the doors.
 

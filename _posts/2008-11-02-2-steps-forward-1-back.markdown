@@ -2,6 +2,7 @@
 layout: post
 title: 2 steps forward...1 back
 date: '2008-11-02 20:58:17'
+thumb_url: '/uploads/2008/11/front-end-012-600x450.jpg'
 ---
 Making progress, but continue to run into snags and surprises.
 

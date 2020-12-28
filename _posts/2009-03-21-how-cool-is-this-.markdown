@@ -2,6 +2,7 @@
 layout: post
 title: How cool is this!...
 date: '2009-03-21 16:48:34'
+thumb_url: '/uploads/2009/03/Sept-1958-Custom-1-copy-600x430.jpg'
 ---
 My house was built in 1929. The same family (mother, father, son) lived in it from the late 30's until 2001.
 

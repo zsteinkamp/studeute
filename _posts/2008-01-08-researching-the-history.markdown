@@ -2,6 +2,7 @@
 layout: post
 title: Researching the history
 date: '2008-01-08 16:31:20'
+thumb_url: '/uploads/2008/12/hrds-070033-where-1-hr.jpg'
 ---
 I got in contact with George Barris.  No go.  He didn't do the car.  I kind of thought that.  It wasn't wild enough.
 

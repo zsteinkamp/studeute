@@ -2,6 +2,7 @@
 layout: post
 title: Upholstery Update
 date: '2008-12-13 21:04:04'
+thumb_url: '/uploads/2008/12/IMG_7950-600x450.jpg'
 ---
 My buddy (and college room mate) Tom, lives in Howdy's neighborhood. He was over to his place today to check out progress. Howdy calls me every few days with an update, but Tom took pictures...
 

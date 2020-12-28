@@ -2,6 +2,7 @@
 layout: post
 title: grills
 date: '2008-11-13 20:59:27'
+thumb_url: '/uploads/2008/11/grill-001-600x450.jpg'
 ---
 A while back we did a thread on the fit of 53-54 C/K grill surrounds. Matthew won the prize for best fitting grills with his rusty '53 Coupe.
 

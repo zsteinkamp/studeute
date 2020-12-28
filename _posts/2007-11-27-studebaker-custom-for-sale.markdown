@@ -2,6 +2,7 @@
 layout: post
 title: Studebaker Custom For Sale
 date: '2007-11-27 15:22:24'
+thumb_url: '/uploads/2008/12/stude-a-mino-0055.jpg'
 ---
 I cruise <em>Craig's List</em> fairly frequently.  Last night I saw a minor ad (no pictures) for a 1953 Studebaker Custom.  Advertised as being in the 1959 Oakland Roadster Show and reported to have been done by George Barris.
 

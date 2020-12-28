@@ -2,6 +2,7 @@
 layout: post
 title: loaded up
 date: '2009-01-17 18:19:30'
+thumb_url: '/uploads/2009/01/IMG_2152-600x450.jpg'
 ---
 <span style="font-family: Verdana,Arial,Helvetica; color: midnightblue; font-size: x-small;"><span id="msg" class="spnMessageText">The highpoint of the day was Andy's visit. Great to meet forum members in person...and Andy brought donuts to boot!. Andy cruised down from San Francisco in his beautiful GT with an awesome family history. A VERY special car.</span></span>
 

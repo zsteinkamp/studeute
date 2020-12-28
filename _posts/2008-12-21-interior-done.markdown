@@ -2,6 +2,7 @@
 layout: post
 title: Interior Done
 date: '2008-12-21 08:59:42'
+thumb_url: '/uploads/2008/12/NewImage-5-600x450.jpg'
 ---
 My good friends Tom and Larry picked the Ute up at Howdy's yesterday and brought it to my son's house in San Jose. I'll go down before the show and finish the car there.
 

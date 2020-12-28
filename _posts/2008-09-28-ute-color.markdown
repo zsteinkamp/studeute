@@ -2,6 +2,7 @@
 layout: post
 title: Ute color
 date: '2008-09-28 15:02:36'
+thumb_url: '/uploads/2008/09/paint-001-600x450.jpg'
 ---
 These give you a better idea of the actual color...
 

@@ -2,6 +2,7 @@
 layout: post
 title: More chrome...styled by the GNRS
 date: '2008-11-17 21:01:25'
+thumb_url: '/uploads/2008/11/chrome-001-600x450.jpg'
 ---
 I got some chrome back from Jerry Forrester today...
 

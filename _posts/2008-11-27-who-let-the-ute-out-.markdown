@@ -2,6 +2,7 @@
 layout: post
 title: Who let the Ute out?
 date: '2008-11-27 19:50:40'
+thumb_url: '/uploads/2008/11/finished-022-600x450.jpg'
 ---
 The Ute found itself out in the daylight today...so I had to take a few pictures...
 

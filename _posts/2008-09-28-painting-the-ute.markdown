@@ -2,6 +2,7 @@
 layout: post
 title: Painting the Ute
 date: '2008-09-28 07:08:58'
+thumb_url: '/uploads/2008/09/cad-022-600x450.jpg'
 ---
 The <span class="nfakPe">Ute</span> got color yesterday.  It went to the paint booth Friday evening and we painted it Saturday.  About 12 hours in the booth (we're slow &lt;grin&gt;).
 

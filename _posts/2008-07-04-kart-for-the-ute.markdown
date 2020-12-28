@@ -2,6 +2,7 @@
 layout: post
 title: Kart for the Ute
 date: '2008-07-04 20:30:35'
+thumb_url: '/uploads/2008/07/DartABonewithtwin820s-600x450.jpg'
 ---
 The Ute is looking less and less like a vehicle. It always gets worse before it gets better, but it is currently torn down to nothing. Pretty much just the body on the chassis sans doors, fenders, etc. as various body pieces get prepped for first primer. I'll post some pics later.
 

@@ -2,6 +2,7 @@
 layout: post
 title: The Ute makes Hot Rod Deluxe
 date: '2008-03-16 15:58:03'
+thumb_url: '/uploads/2008/03/HRD3-442x600.jpg'
 ---
 Well...the letters section. But a full page there!
 

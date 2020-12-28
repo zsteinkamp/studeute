@@ -10,6 +10,7 @@ layout: default
   float:right;
   width:120px;
   height:120px;
+  background-size: contain;
   background-position: center center;
   background-repeat: no-repeat;
   background-color: black;
@@ -35,8 +36,8 @@ layout: default
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
         {%- assign link = post.url | relative_url -%}
-        {%- if thumb_url -%}
-          <a class="post-thumbnail" style="background-image: url({{ thumb_url }})" href="{{ link }}"></a>
+        {%- if post.thumb_url -%}
+          <a class="post-thumbnail" style="background-image: url({{ post.thumb_url }})" href="{{ link }}"></a>
         {%- endif -%}
           <a class="post-link" href="{{ link }}">
             {{ post.title | escape }}

@@ -2,6 +2,7 @@
 layout: post
 title: Shift knob
 date: '2009-01-07 11:26:30'
+thumb_url: '/uploads/2009/01/shift-600x450.jpg'
 ---
 I had a local glass blower make a shift knob for the ute...
 

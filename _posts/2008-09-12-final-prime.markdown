@@ -2,6 +2,7 @@
 layout: post
 title: Final Prime
 date: '2008-09-12 20:51:09'
+thumb_url: '/uploads/2008/09/manifold-046-600x450.jpg'
 ---
 We put the ute in final primer yesterday. Another week or so of sanding and we should be ready for finish paint.
 

@@ -2,6 +2,7 @@
 layout: post
 title: Engine install!
 date: '2008-10-23 20:56:25'
+thumb_url: '/uploads/2008/10/dash-019-600x450.jpg'
 ---
 &nbsp;
 

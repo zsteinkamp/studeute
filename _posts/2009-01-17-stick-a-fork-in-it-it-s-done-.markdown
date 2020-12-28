@@ -2,6 +2,7 @@
 layout: post
 title: Stick a fork in it...it's done!
 date: '2009-01-17 14:42:30'
+thumb_url: '/uploads/2009/01/IMG_2124-600x450.jpg'
 ---
 Well, at least done ENOUGH for the show.
 

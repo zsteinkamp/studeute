@@ -2,6 +2,7 @@
 layout: post
 title: At the clubhouse
 date: '2007-12-07 20:23:46'
+thumb_url: '/uploads/2009/01/stude-a-mino-040.jpg'
 ---
 <span id="msg" class="spnMessageText"> </span>Since the new Custom doesn't have an engine/trans, it had an ugly super nose high stance. I pulled the front springs out and just put a 2 x 4 between the lower A arm and the upper spring pocket. Now it sits approximately right (temporarily).
 

@@ -2,6 +2,7 @@
 layout: post
 title: Final week before the GNRS
 date: '2009-01-14 19:28:01'
+thumb_url: '/uploads/2009/01/img_02391-600x450.jpg'
 ---
 I'm at my son's house in San Jose, madly trying to cram two weeks' worth of finish up work into one!
 

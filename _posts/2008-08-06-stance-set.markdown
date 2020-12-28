@@ -2,6 +2,7 @@
 layout: post
 title: Stance Set
 date: '2008-08-06 15:43:13'
+thumb_url: '/uploads/2008/08/pics-073-600x450.jpg'
 ---
 I've been agonizing over how the <span class="nfakPe">Ute</span> should "sit" almost as much as which color to paint it.
 

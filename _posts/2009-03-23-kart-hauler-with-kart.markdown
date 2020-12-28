@@ -2,6 +2,7 @@
 layout: post
 title: Kart Hauler with Kart
 date: '2009-03-23 20:00:56'
+thumb_url: '/uploads/2009/03/kart-008-1-600x450.jpg'
 ---
 <a href="/uploads/2009/03/kart-008-1.jpg"><img class="alignnone size-medium wp-image-246" title="kart-008-1" src="/uploads/2009/03/kart-008-1-600x450.jpg" alt="" width="600" height="450" /></a>
 
