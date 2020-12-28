@@ -9,8 +9,6 @@ Then Scott Rodgers from the Studebaker Driver's club forum found this photo in t
 
 <a href="/uploads/2008/12/hrds-070033-where-1-hr.jpg"><img class="alignnone size-full wp-image-124" title="hrds-070033-where-1-hr" src="/uploads/2008/12/hrds-070033-where-1-hr.jpg" alt="" width="500" height="505" /></a>
 
-<a href="/uploads/2008/12/hrd3.jpg"><img class="alignnone size-full wp-image-129" title="hrd3" src="/uploads/2008/12/hrd3.jpg" alt="" width="500" height="678" /></a>
-
 There was my car in the center of the picture of the 1959 Oakland Roadster Show!
 
 With that confirmation, I got a copy of the 1959 ORS program from my friend Gary Minor...

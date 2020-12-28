@@ -9,4 +9,4 @@ It was quite a surprise to have Sam walk up and introduce himself to me at the s
 
 Here's Sam with the car he helped design and build...
 
-<img class="alignnone" title="Sam with the Kart Hauler" src="http://i706.photobucket.com/albums/ww63/dstnkmp/Ute%20eBay/GG010.jpg" alt="" width="1024" height="768" />
+<a href="/uploads/2009/08/gg-010.jpg"><img class="alignnone size-medium wp-image-297" title="gg-010" src="/uploads/2009/08/gg-010-600x450.jpg" alt="" width="600" height="450" /></a>
